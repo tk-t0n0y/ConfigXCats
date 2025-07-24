@@ -1,30 +1,724 @@
 proxies:
-  - name: "🌬️🧊 Server1-FTP[ShowTime, FtpBD]"
+  - name: "🧊Cats 1-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
     type: socks5
     server: 45.64.132.21
     port: 1088
     username: test
     password: test
-  - name: "🌬️🧊 Server2-FTP[ShowTime, FtpBD]"
+  - name: "🧊Cats 2-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
     type: socks5
     server: 118.179.216.138
     port: 1920
     username: test
     password: test
-  - name: "🌬️🧊 Server3-FTP[SamFTP, ShowTime, FtpBD]"
+  - name: "🧊Cats 3-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD]"
     type: socks5
     server: 103.126.23.222
     port: 1088
     username: test
     password: test
-  - name: "🌬️🧊 Server4-FTP[SamFTP, ShowTime, FtpBD, Ebox, TimePassBD, Discovery, CloudTV, IccFTP]"
+  - name: "🧊Cats 4-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD, Ebox, TimePassBD, Discovery, CloudTV, IccFTP]"
     type: socks5
     server: 103.38.55.55
     port: 1088
     username: test
     password: test
-  - name: "🌬️🧊 Server5-FTP[SamFTP, ShowTime, FtpBD]"
+  - name: "🧊Cats 5-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD]"
     type: socks5
+    server: 103.122.74.26
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 6-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD, Ebox, TimePassBD, Discovery, CloudTV, IccFTP]"
+    type: socks5
+    server: 103.166.253.94
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 7-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP]"
+    type: socks5
+    server: 103.186.238.9
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 8-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP]"
+    type: socks5
+    server: 103.111.225.73
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 9-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, FtpBD, IccFTP]"
+    type: socks5
+    server: 103.108.60.35
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 10-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD, IccFTP]"
+    type: socks5
+    server: 103.84.252.101
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 11-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 123.253.96.249
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 12-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 114.130.183.10
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 13-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 103.195.140.12
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 14-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, FtpBD]"
+    type: socks5
+    server: 103.197.48.198
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 15-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 118.179.158.241
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 16-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime]"
+    type: socks5
+    server: 43.243.205.58
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 17-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD]"
+    type: socks5
+    server: 203.76.148.154
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 18-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD, IccFTP]"
+    type: socks5
+    server: 180.148.214.52
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 19-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 118.179.205.202
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 20-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, ShowTime]"
+    type: socks5
+    server: 103.186.238.8
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 21-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery, IccFTP]"
+    type: socks5
+    server: 115.127.142.157
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 22-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD, IccFTP]"
+    type: socks5
+    server: 103.159.218.218
+    port: 1920
+    username: test
+    password: test
+  - name: "🧊Cats 23-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD]"
+    type: socks5
+    server: 43.229.210.8
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 24-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, Ebox, TimePassBD, Discovery, CloudTV, IccFTP]"
+    type: socks5
+    server: 103.123.169.243
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 25-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD]"
+    type: socks5
+    server: 182.48.84.54
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 26-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 45.114.85.161
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 27-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 27.147.141.162
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 28-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD]"
+    type: socks5
+    server: 103.106.119.38
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 29-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime]"
+    type: socks5
+    server: 103.122.252.94
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 30-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, FtpBD]"
+    type: socks5
+    server: 58.84.33.11
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 31-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 27.147.248.56
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 32-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 103.71.46.197
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 33-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, FtpBD, Ebox, IccFTP]"
+    type: socks5
+    server: 202.144.201.98
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 34-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD]"
+    type: socks5
+    server: 182.48.79.78
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 35-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, FtpBD, Discovery]"
+    type: socks5
+    server: 103.129.200.102
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 36-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, FtpBD]"
+    type: socks5
+    server: 103.197.48.126
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 37-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD]"
+    type: socks5
+    server: 103.81.104.161
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 38-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, FtpBD, TimePassBD, IccFTP]"
+    type: socks5
+    server: 116.206.91.65
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 39-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 27.147.248.58
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 40-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD]"
+    type: socks5
+    server: 103.81.104.206
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 41-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, ShowTime, IccFTP]"
+    type: socks5
+    server: 103.189.158.13
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 42-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, FtpBD]"
+    type: socks5
+    server: 203.96.226.98
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 43-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD, IccFTP]"
+    type: socks5
+    server: 103.108.60.92
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 44-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 118.179.214.107
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 45-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD]"
+    type: socks5
+    server: 175.29.126.110
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 46-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD]"
+    type: socks5
+    server: 59.152.96.226
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 47-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 27.147.248.59
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 48-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD, IccFTP]"
+    type: socks5
+    server: 203.190.8.8
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 49-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, FtpBD]"
+    type: socks5
+    server: 103.254.167.18
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 50-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD]"
+    type: socks5
+    server: 103.30.29.204
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 51-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 203.76.110.118
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 52-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 123.49.39.120
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 53-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime]"
+    type: socks5
+    server: 103.140.25.10
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 54-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 103.197.48.154
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 55-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD, IccFTP]"
+    type: socks5
+    server: 103.108.60.173
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 56-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD, Ebox, TimePassBD, Discovery, CloudTV, IccFTP]"
+    type: socks5
+    server: 103.166.253.92
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 57-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, FtpBD, Discovery]"
+    type: socks5
+    server: 103.129.200.173
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 58-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime]"
+    type: socks5
+    server: 103.122.254.33
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 59-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 103.214.201.134
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 60-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD, IccFTP]"
+    type: socks5
+    server: 103.84.252.97
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 61-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[FtpBD, TimePassBD]"
+    type: socks5
+    server: 103.199.155.186
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 62-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD, IccFTP]"
+    type: socks5
+    server: 203.190.9.73
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 63-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 220.247.165.129
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 64-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 144.48.119.194
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 65-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 123.253.96.148
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 66-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 202.4.105.122
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 67-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 103.245.96.21
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 68-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, FtpBD]"
+    type: socks5
+    server: 103.81.104.177
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 69-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, Discovery, IccFTP]"
+    type: socks5
+    server: 115.127.135.186
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 70-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime, FtpBD]"
+    type: socks5
+    server: 103.91.231.244
+    port: 1088
+    username: test
+    password: test
+  - name: "🧊Cats 71-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, ShowTime, FtpBD, CtgHall]"
+    type: socks5
+    server: 103.186.238.1
+    port: 9169
+    username: "true"
+    password: "true"
+  - name: "🧊Cats 72-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime]"
+    type: http
+    server: 182.160.124.174
+    port: 9669
+  - name: "🧊Cats 73-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, ShowTime]"
+    type: http
+    server: 103.18.204.141
+    port: 32706
+  - name: "🧊Cats 74-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[ShowTime]"
+    type: http
+    server: 27.147.163.188
+    port: 40544
+  - name: "🧊Cats 75-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP]"
+    type: http
+    server: 103.40.226.126
+    port: 26100
+  - name: "🧊Cats 76-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime]"
+    type: http
+    server: 202.40.178.218
+    port: 17209
+  - name: "🧊Cats 77-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[TimePassBD, Discovery, CloudTV]"
+    type: http
+    server: 121.200.63.205
+    port: 8742
+  - name: "🧊Cats 78-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP]"
+    type: http
+    server: 202.40.178.165
+    port: 12761
+  - name: "🧊Cats 79-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, TimePassBD, Discovery, CloudTV]"
+    type: http
+    server: 121.200.61.221
+    port: 6565
+  - name: "🧊Cats 80-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, TimePassBD, Discovery, CloudTV]"
+    type: http
+    server: 45.115.112.138
+    port: 7675
+  - name: "🧊Cats 81-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, FtpBD, Discovery]"
+    type: socks5
+    server: 103.150.255.120
+    port: 7878
+    username: "h2"
+    password: "h2"
+  - name: "🧊Cats 82-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[]"
+    type: socks5
+    server: 122.102.35.105
+    port: 1080
+    username: "user1"
+    password: "user1"
+  - name: "🧊Cats 83-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[]"
+    type: socks5
+    server: 45.125.221.11
+    port: 6969
+    username: "test"
+    password: "test"
+  - name: "🧊Cats 84-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime]"
+    type: socks5
+    server: 103.40.226.166
+    port: 9169
+    username: "Sarwar"
+    password: "12580"
+  - name: "🧊Cats 85-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.13.155
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 86-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.29.226
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 87-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.30.146
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 88-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.151.238
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 89-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.156.114
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 90-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.156.158
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 91-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.159.170
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 92-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.210.140
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 93-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.213.145
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 94-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.208.178
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 95-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 202.168.249.116
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 96-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 202.168.252.237
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 97-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.50.226
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 98-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.52.18
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 99-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.62.202
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 100-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.74.244
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 101-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.77.19
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 102-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.81.101
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 103-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.81.122
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 104-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.92.30
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 105-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.92.226
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 106-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.95.90
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 107-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.96.76
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 108-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.112.218
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 109-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.142.98
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 110-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.148.146
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 111-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.153.106
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 112-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.206.82
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 113-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.208.158
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 114-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.139.5
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 115-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.148.18
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 116-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 103.91.128.106
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 117-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 103.91.128.110
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 118-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 103.91.129.190
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 119-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 103.91.129.170
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 120-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 103.91.129.209
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 121-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 103.91.129.238
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 122-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 123.253.37.149
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "🧊Cats 123-FTP 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜[SamFTP, ShowTime, Discovery]"
+    type: http
+    server: 120.50.19.177
+    port: 6699
+    username: ECats
+    password: ECats    type: socks5
     server: 103.122.74.26
     port: 1088
     username: test
