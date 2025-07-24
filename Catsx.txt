@@ -717,5 +717,3 @@ proxies:
     type: http
     server: 120.50.19.177
     port: 6699
-    username: ECats
-    password: ECats
