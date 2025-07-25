@@ -723,3 +723,9 @@ proxies:
     port: 6699
     username: ECats
     password: ECats
+  - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 125ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
+    type: socks5
+    server: 115.127.74.226
+    port: 6699
+    username: 3xp
+    password: 3xp
