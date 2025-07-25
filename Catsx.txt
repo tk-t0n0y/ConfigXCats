@@ -497,10 +497,8 @@ proxies:
     port: 9966
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 87ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
     type: socks5
-    server: 115.127.30.146
-    port: 6699
-    username: 3xp
-    password: 3xp
+    server: 115.127.155.161
+    port: 9966
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 88ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
     type: socks5
     server: 115.127.151.238
