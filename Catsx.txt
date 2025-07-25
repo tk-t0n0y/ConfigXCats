@@ -617,46 +617,46 @@ proxies:
     password: 3xp
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 109ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
     type: socks5
-    server: 115.127.142.98
+    server: 115.127.39.18
     port: 6699
-    username: 3xp
-    password: 3xp
+    username: ECats
+    password: ECats
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 110ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
     type: socks5
     server: 115.127.148.146
     port: 6699
-    username: 3xp
-    password: 3xp
+    username: ECats
+    password: ECats
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 111ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
     type: socks5
-    server: 115.127.153.106
+    server: 115.127.100.182
     port: 6699
-    username: 3xp
-    password: 3xp
+    username: ECats
+    password: ECats
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 112ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
     type: socks5
-    server: 115.127.206.82
+    server: 115.127.106.158
     port: 6699
-    username: 3xp
-    password: 3xp
+    username: ECats
+    password: ECats
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 113ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
     type: socks5
-    server: 115.127.208.158
+    server: 115.127.153.226
     port: 6699
-    username: 3xp
-    password: 3xp
+    username: ECats
+    password: ECats
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 114ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
     type: socks5
-    server: 115.127.139.5
+    server: 115.127.139.218
     port: 6699
-    username: 3xp
-    password: 3xp
+    username: ECats
+    password: ECats
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 115ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
     type: socks5
-    server: 115.127.148.18
+    server: 115.127.147.40
     port: 6699
-    username: 3xp
-    password: 3xp
+    username: ECats
+    password: ECats
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 116ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[SamFTP, ShowTime, Discovery]"
     type: socks5
     server: 103.91.128.106
