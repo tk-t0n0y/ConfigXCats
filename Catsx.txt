@@ -519,10 +519,12 @@ proxies:
     port: 24442
     username: a
     password: a
-  - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 92ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[SamFTP, ShowTime, Discovery]"
+  - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 92ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[SamFTP, FtpBD, Discovery]"
     type: socks5
-    server: 115.127.156.114
-    port: 9966
+    server: 103.126.23.240
+    port: 1080
+    password: test
+    username: test
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 93ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[]"
     type: socks5
     server: 123.200.24.54
@@ -585,30 +587,28 @@ proxies:
     port: 6699
     username: 3xp
     password: 3xp
-  - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 104ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
+  - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 104ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[SamFTP, IccFTP, ShowTime, Discovery]"
     type: socks5
-    server: 115.127.92.30
-    port: 6699
-    username: 3xp
-    password: 3xp
-  - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 105ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
+    server: 180.211.169.46
+    port: 1080
+    username: test
+    password: test
+  - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 105ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[IccFTP, SamFTP, ShowTime, Discovery]"
     type: socks5
-    server: 115.127.92.226
-    port: 6699
-    username: 3xp
-    password: 3xp
-  - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 106ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
+    server: 160.202.144.198
+    port: 1080
+    username: test
+    password: test
+  - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 106ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[IccFTP, SamFTP, ShowTime, Discovery]"
+    type: http
+    server: 114.130.181.114
+    port: 8080
+  - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 107ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[IccFTP, SamFTP, ShowTime, Discovery]"
     type: socks5
-    server: 115.127.95.90
-    port: 6699
-    username: 3xp
-    password: 3xp
-  - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 107ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
-    type: socks5
-    server: 115.127.96.76
-    port: 6699
-    username: 3xp
-    password: 3xp
+    server: 180.211.169.46
+    port: 1080
+    username: test
+    password: test
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 108ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
     type: socks5
     server: 115.127.112.218
