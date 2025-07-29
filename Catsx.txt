@@ -511,10 +511,10 @@ proxies:
     password: Admintest
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 90ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
     type: socks5
-    server: 118.179.26.142
-    port: 1080
-    username: test
-    password: test
+    server: 203.202.253.139
+    port: 1052
+    username: 1
+    password: 1
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 91ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[SamFTP, EBox]"
     type: socks5
     server: 115.127.210.242
@@ -569,8 +569,8 @@ proxies:
     type: socks5
     server: 49.0.46.98
     port: 1080
-    username: test
-    password: test
+    username: Admintest
+    password: Admintest
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 101ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[CircleFTP, SamFTP, ShowTime, Discovery]"
     type: socks5
     server: 115.127.77.19
@@ -598,7 +598,7 @@ proxies:
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 105ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[IccFTP, SamFTP, ShowTime, Discovery]"
     type: socks5
     server: 160.202.144.198
-    port: 1080
+    port: 6699
     username: test
     password: test
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 106ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[IccFTP, SamFTP, ShowTime, Discovery]"
@@ -705,8 +705,8 @@ proxies:
     type: socks5
     server: 49.0.39.182
     port: 1080
-    username: test
-    password: test
+    username: Admintest
+    password: Admintest
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 124ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[FtpBD, SamFTP, Discovery]"
     type: socks5
     server: 160.22.214.73
